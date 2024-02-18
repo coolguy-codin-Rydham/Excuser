@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropped {
+  text-shadow: 3px 3px 0 #FF00D6, -3px 3px 0 #FF00D6, -3px -3px 0 #FF00D6,
+    3px -3px 0 #FF00D6;
+}
