@@ -73,7 +73,7 @@ const Excuser = () => {
       <div >
         <h1 className="pb-5 text-xl italic text-white">Here you go:</h1>
         <div className="flex items-center justify-center bg-[#e1e1e1] h-32 p-10 border-2 border-white border-solid w-[45rem] rounded-lg shadow-[#FF00D6_0px_12px_24px_-10px_inset]">
-        <p className="text-3xl font-bold">{excuse}</p>
+        <p className="font-serif text-2xl font-semibold">{excuse}</p>
         </div>
       </div>
     </div>
